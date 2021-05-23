@@ -1,0 +1,1 @@
+web: guniorn djangoreact.wsgi --log-file -
